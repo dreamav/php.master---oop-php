@@ -520,19 +520,47 @@
 	"buffers":
 	[
 		{
-			"file": "/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/index.1.php",
+			"file": "/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa/index.php",
 			"settings":
 			{
-				"buffer_size": 149,
+				"buffer_size": 777,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/classes/Car.2.php",
+			"file": "/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa/classes/Product.php",
 			"settings":
 			{
-				"buffer_size": 106,
+				"buffer_size": 936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mevericks/.gitconfig",
+			"settings":
+			{
+				"buffer_size": 226,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/study.loc/php.master/03-metody-objecta/index.php",
+			"settings":
+			{
+				"buffer_size": 322,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/study.loc/php.master/03-metody-objecta/index.1.php",
+			"settings":
+			{
+				"buffer_size": 229,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -1075,11 +1103,17 @@
 	"expanded_folders":
 	[
 		"/D/OpenServer/domains/study.loc/php.master",
-		"/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa",
-		"/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/classes"
+		"/D/OpenServer/domains/study.loc/php.master/.idea",
+		"/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/classes",
+		"/D/OpenServer/domains/study.loc/php.master/03-metody-objecta",
+		"/D/OpenServer/domains/study.loc/php.master/03-metody-objecta/classes",
+		"/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa",
+		"/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa/classes"
 	],
 	"file_history":
 	[
+		"/C/Users/Mevericks/.git-credentials",
+		"/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/index.1.php",
 		"/C/Users/Mevericks/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
 		"/C/Users/Mevericks/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Mevericks/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
@@ -1205,9 +1239,7 @@
 		"/D/Projects/Todobox/Омск/adminka.txt",
 		"/Z/home/todobox.loc/omsk/admin/.htpasswd",
 		"/Z/home/todobox.loc/omsk/sftp-config.json",
-		"/D/Google Drive/Сайты/ToDoBox/механизм оплаты.docx",
-		"/Z/home/streetadventure/ru/tenquests/sftp-config.json",
-		"/Z/home/streetadventure/ru/tenquests/css/style1.scss"
+		"/D/Google Drive/Сайты/ToDoBox/механизм оплаты.docx"
 	],
 	"find":
 	{
@@ -1524,24 +1556,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/index.1.php",
+					"file": "/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 149,
+						"buffer_size": 777,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								115,
-								115
+								58,
+								58
 							]
 						],
 						"settings":
@@ -1555,16 +1587,81 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/D/OpenServer/domains/study.loc/php.master/02-svoistva-classa/classes/Car.2.php",
+					"file": "/D/OpenServer/domains/study.loc/php.master/11-interface-i-kontrol-tipa/classes/Product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								697
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Mevericks/.gitconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - SoDaReloaded/settings/langs/Git.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/OpenServer/domains/study.loc/php.master/03-metody-objecta/index.php",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 106,
+						"buffer_size": 322,
 						"regions":
 						{
 						},
@@ -1587,6 +1684,38 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/OpenServer/domains/study.loc/php.master/03-metody-objecta/index.1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -2178,9 +2307,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "sas",
+		"last_filter": "todo",
 		"selected_items":
 		[
+			[
+				"todo",
+				"D:\\Projects\\Todobox\\Main - Moscow\\_idefiles\\todobox_ru.sublime-project"
+			],
 			[
 				"sas",
 				"D:\\Projects\\StreetAdventure\\Синий Сайт\\_idefiles\\sa-app.loc.sublime-project"
@@ -2204,10 +2337,6 @@
 			[
 				"streetru",
 				"D:\\Projects\\StreetAdventure.RU\\streetadventure_RU.sublime-project"
-			],
-			[
-				"todo",
-				"D:\\Projects\\Todobox\\Дочерние проекты ST\\todobox__ufa.sublime-project"
 			],
 			[
 				"todobospb",

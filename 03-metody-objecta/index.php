@@ -6,8 +6,8 @@ function debug($data){
     echo '<pre>' . print_r($data,1) . '</pre>';
 }
 
-$car1 = new Car();
-$car1->color = 'черный';
+$car1 = new Car(); 			// создаем обьект $car1 (экземпляр класса)
+$car1->color = 'черный';	
 $car1->brand = 'volvo';
 
 $car2 = new Car();
