@@ -4,7 +4,8 @@ use classes\BookProduct;
 use classes\interfaces\IGadget;
 use classes\NotebookProduct;
 
-error_reporting(-1);
+ini_set("display_errors",1);
+error_reporting(E_ALL);
 /*require_once 'classes/Product.php';
 require_once 'classes/I3D.php';
 require_once 'classes/IGadget.php';
@@ -27,7 +28,7 @@ function autoloder1($class)
         require_once $file;
     }
 }*/
-spl_autoload_register('autoloder1');
+// spl_autoload_register('autoloder1'); 
 //spl_autoload_register('autoloder2');
 
 function debug($data){
